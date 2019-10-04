@@ -33,7 +33,7 @@
 
 配置文件为 `data/sclientinfo.xml`，修改其中的 `<address>` 即可。
 
-> 详见服务端 [联机模式的搭建教程](https://github.com/lyy289065406/ro-single-server#0x04-%E6%80%8E%E6%A0%B7%E6%90%AD%E5%BB%BA%E8%81%94%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
+> 详见服务端 [联机模式的搭建教程](https://github.com/lyy289065406/ro-single-server#0x06-%E6%80%8E%E6%A0%B7%E6%90%AD%E5%BB%BA%E8%81%94%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
 
 ## 关于乱码

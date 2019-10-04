@@ -6,7 +6,7 @@
         <extendedslot>2</extendedslot>
 
         <connection>
-                <display>单机服务器</display>
+                <display>ro-single-server</display>
                 <desc></desc>
                 <balloon></balloon>
                 <address>127.0.0.1</address>
