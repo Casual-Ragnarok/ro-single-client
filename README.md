@@ -15,6 +15,7 @@
 
 - 下载韩服客户端（版本必须是 Ragnarok_KRO_20190306_Lite）
 - 下载本仓库的客户端补丁（版本必须是 v4.3）： `git clone https://github.com/lyy289065406/ro-single-client`
+- 不懂 git 的同学可以直接点击本 [Github](https://github.com/lyy289065406/ro-single-client) 仓库的 【Clone and download】 ，解压后也是一样的
 - 解压客户端到任意位置（<b>路径不要有中文</b>）
 - 覆盖客户端补丁到韩服客户端根目录
 - 双击运行 `RO仙境传说_Setup_Plus.exe` 修改配置
