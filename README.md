@@ -15,7 +15,7 @@
 > 韩服客户端（三转复兴后）下载：Ragnarok_KRO_20190306_Lite 【[百度网盘(dgui)](https://pan.baidu.com/s/1vrh-9wE29tfZvDiS10wkxw)】【[韩国官网](http://ro.gnjoy.com/pds/down/)】~【[99Max:收费](http://www.99max.me/thread-485-1-1.html)】~
 
 - 下载韩服客户端（版本必须是 Ragnarok_KRO_20190306_Lite）
-- 下载本仓库的客户端补丁（Tag 版本必须是 v4.3），不懂 git 的同学可以选择 Branch 中的 Tag v20190306，然后点击 【Clone and download】 下载
+- 下载本仓库的客户端补丁：选择 Branch 中的 Tags v20190306，然后点击 【Clone and download】 下载
 - 解压客户端到任意位置（<b>路径不要有中文</b>）
 - 解压并覆盖客户端补丁到韩服客户端根目录
 - 双击运行 `RO仙境传说_Setup_Plus.exe` 修改配置
