@@ -25,6 +25,28 @@
 > 韩服客户端（三转复兴后）下载：Ragnarok_KRO_20190306_Lite 【[百度网盘(dgui)](https://pan.baidu.com/s/1vrh-9wE29tfZvDiS10wkxw)】【[韩国官网](http://ro.gnjoy.com/pds/down/)】~【[99Max:收费](http://www.99max.me/thread-485-1-1.html)】~
 
 
+## 关于多人联机
+
+默认情况下客户端是单机模式游戏的，指向服务端的 IP 是 127.0.0.1 。
+
+假如服务端搭建时使用了联网模式，那么客户端要对应修改所连接的服务器 IP。
+
+配置文件为 `data/sclientinfo.xml`，修改其中的 `<address>` 即可。
+
+> 详见服务端 [联机模式的搭建教程](https://github.com/lyy289065406/ro-single-server#0x04-%E6%80%8E%E6%A0%B7%E6%90%AD%E5%BB%BA%E8%81%94%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
+
+
+## 关于乱码
+
+客户端内的某些目录、文件，以及在游戏内看见的乱码（如【导航】、【Tips Box】等），其实都是韩文。
+
+主要因为我们在中文系统上用韩服客户端就会出现这种情况，不过并不影响游戏。
+
+而且这种情况，也有部分原因是翻译组的锅，没有完全翻译导致的。
+
+> `data_ch.grf` 就是语言包，配置文件为 `data.ini`
+
+
 ------
 ## 版权声明
 
