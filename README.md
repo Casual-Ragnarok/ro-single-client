@@ -46,6 +46,14 @@
 > `data_ch.grf` 就是语言包，配置文件为 `data.ini`
 
 
+## RO 资料站
+
+- RO321: [http://ro321.com](http://ro321.com)
+- 17RO: [http://www.17ro.com/](http://www.17ro.com/)
+- 幻想厅: [https://rd.fharr.com](https://rd.fharr.com)
+- 巴哈姆特（需梯子）: [https://acg.gamer.com.tw/acgDetail.php?s=4708](https://acg.gamer.com.tw/acgDetail.php?s=4708), [https://forum.gamer.com.tw/A.php?bsn=4212](https://forum.gamer.com.tw/A.php?bsn=4212)
+
+
 ------
 ## 版权声明
 
