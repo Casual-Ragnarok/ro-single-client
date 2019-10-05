@@ -51,7 +51,9 @@
 - RO321: [http://ro321.com](http://ro321.com)
 - 17RO: [http://www.17ro.com/](http://www.17ro.com/)
 - 幻想厅: [https://rd.fharr.com](https://rd.fharr.com)
-- 巴哈姆特（需梯子）: [https://acg.gamer.com.tw/acgDetail.php?s=4708](https://acg.gamer.com.tw/acgDetail.php?s=4708), [https://forum.gamer.com.tw/A.php?bsn=4212](https://forum.gamer.com.tw/A.php?bsn=4212)
+- 巴哈姆特（需梯子）: 
+<br/>　[https://acg.gamer.com.tw/acgDetail.php?s=4708](https://acg.gamer.com.tw/acgDetail.php?s=4708)
+<br/>　[https://forum.gamer.com.tw/A.php?bsn=4212](https://forum.gamer.com.tw/A.php?bsn=4212)
 
 
 ------
