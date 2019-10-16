@@ -48,7 +48,8 @@
 
 ## RO 资料站
 
-- iRO-wiki: [https://irowiki.org/wiki/Main_Page](https://irowiki.org/wiki/Main_Page)
+- iRO: [https://irowiki.org/wiki/Main_Page](https://irowiki.org/wiki/Main_Page)
+- ROWiki: [https://rowiki.net/Main_Page](https://rowiki.net/Main_Page)
 - RO321: [http://ro321.com](http://ro321.com)
 - 17RO: [http://www.17ro.com/](http://www.17ro.com/)
 - 幻想厅: [https://rd.fharr.com](https://rd.fharr.com)
