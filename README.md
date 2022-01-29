@@ -15,13 +15,12 @@
 > 韩服客户端（三转复兴后）下载：Ragnarok_KRO_20190306_Lite 【[百度网盘(dgui)](https://pan.baidu.com/s/1vrh-9wE29tfZvDiS10wkxw)】【[韩国官网](http://ro.gnjoy.com/pds/down/)】~【[99Max:收费](http://www.99max.me/thread-485-1-1.html)】~
 
 - 下载韩服客户端（版本必须是 Ragnarok_KRO_20190306_Lite）
-- 下载本仓库的客户端补丁：选择 Branch 中的 Tags v20190306，然后点击 【Clone and download】 下载
 - 解压客户端到任意位置（<b>路径不要有中文</b>）
-- 解压并覆盖客户端补丁到韩服客户端根目录
+- 下载本仓库（客户端补丁）：`git clone git@github.com:lyy289065406/ro-single-client.git`
+- 把客户端补丁中的 `data_ch.7z` 解压为 `data_ch.grf`
+- 覆盖客户端补丁到韩服客户端根目录
 - 双击运行 `RO仙境传说_Setup_Plus.exe` 修改配置
 - 双击运行 `RO仙境传说_v4.3_Data.exe` 即可进入游戏
-
-> `data_ch.grf` 是大文件，若通过 git 命令下载不了，可以在浏览器手动下载
 
 
 ## 关于多人联机
@@ -43,7 +42,7 @@
 
 而且这种情况，也有部分原因是翻译组的锅，没有完全翻译导致的。
 
-> `data_ch.grf` 就是语言包，配置文件为 `data.ini`
+> `data_ch.grf` 就是语言包，配置文件为 `DATA.INI`
 
 
 ## RO 资料站
