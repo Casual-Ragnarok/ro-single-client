@@ -47,6 +47,7 @@
 
 ## RO 资料站
 
+- Nemo: [Github](https://github.com/Neo-Mind/NEMO) [Gitlab](https://gitlab.com/4144/Nemo) [Web](http://nemo.herc.ws/) （Kro 历年客户端、补丁等下载）
 - iRO: [https://irowiki.org/wiki/Main_Page](https://irowiki.org/wiki/Main_Page)
 - ROWiki: [https://rowiki.net/Main_Page](https://rowiki.net/Main_Page)
 - RO321: [http://ro321.com](http://ro321.com)
