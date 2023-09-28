@@ -1,7 +1,7 @@
 ﻿# ro-single-client
 
 > 仙境RO传说-单机版-客户端（登录补丁）
-<br/>配套服务端仓库：[https://github.com/lyy289065406/ro-single-server](https://github.com/lyy289065406/ro-single-server)
+<br/>配套服务端仓库：[https://github.com/Casual-Ragnarok/ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server)
 
 ------
 
@@ -16,7 +16,7 @@
 
 - 下载韩服客户端（版本必须是 Ragnarok_KRO_20190306_Lite）
 - 解压客户端到任意位置（<b>路径不要有中文</b>）
-- 下载本仓库（客户端补丁）：`git clone git@github.com:lyy289065406/ro-single-client.git`
+- 下载本仓库（客户端补丁）：`git clone git@github.com:Casual-Ragnarok/ro-single-client.git`
 - 把客户端补丁中的 `data_ch.7z` 解压为 `data_ch.grf`
 - 覆盖客户端补丁到韩服客户端根目录
 - 双击运行 `RO仙境传说_Setup_Plus.exe` 修改配置
@@ -31,7 +31,7 @@
 
 配置文件为 `data/sclientinfo.xml`，修改其中的 `<address>` 即可。
 
-> 详见服务端 [联机模式的搭建教程](https://github.com/lyy289065406/ro-single-server#0x06-%E6%80%8E%E6%A0%B7%E6%90%AD%E5%BB%BA%E8%81%94%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
+> 详见服务端 [联机模式的搭建教程](https://github.com/Casual-Ragnarok/ro-single-server#0x06-%E6%80%8E%E6%A0%B7%E6%90%AD%E5%BB%BA%E8%81%94%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
 
 ## 关于乱码
